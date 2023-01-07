@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Atualmente, estou estudando front-end.<br>👯 estou ajudando iniciantes com o que sei.<br>🤝 Estou me empenhando ao máximo.<br>🌱 Atualmente, estou aprendendo Node.js.<br>⚡ Curiosidade: estudo há um pouco mais de um ano e sou autodidata.
 
 
@@ -12,8 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeDevv&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDevv&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
