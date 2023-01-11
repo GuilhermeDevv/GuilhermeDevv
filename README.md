@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Atualmente, estou estudando front-end.<br>👯 estou ajudando iniciantes com o que sei.<br>🤝 Estou me empenhando ao máximo.<br>🌱 Atualmente, estou aprendendo Node.js.<br>⚡ Curiosidade: estudo há um pouco mais de um ano e sou autodidata.
+🔭 Atualmente, estou estudando front-end.<br>👯 estou ajudando iniciantes com o que sei.<br>🤝 Estou me empenhando ao máximo.<br>🌱 Atualmente, estou focando em Node.js.<br>⚡ Curiosidade: estudo há um pouco mais de um ano e sou autodidata.
 
 
 ## 🌐 Socials:
