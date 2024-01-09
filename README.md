@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">"fighting to be better, better than the me of yesterday"</h3>
 
-- 🔭 I’m currently working on [PedeAi](https://github.com/Medic1111/PROJETO6-02)
+- 🔭 I’m currently working on [NeoSyx](https://www.neosyx.com/)
 
-- 🌱 I’m currently learning **mySql and PostgreSql**
+- 🌱 I’m currently qualifying in Jest and SQLserver
 
-- 👨‍💻 All of my projects are available at [[shortly]]([shortly])
+- 👨‍💻 All of my projects are available at [My website](https://guilhermedeveloper.tech/)
 
 - 💬 Ask me about **React**
 <h3 align="left">Connect with me:</h3>
@@ -18,7 +18,7 @@
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <hr/>
-<h3 align="left">goals for 2023:</h3>
-<p align="left">  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3 align="left">goals for 2024:</h3>
+<p align="left">  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> </p>
 <hr/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermedevv&show_icons=true&locale=en&layout=compact" alt="guilhermedevv" /></p>
